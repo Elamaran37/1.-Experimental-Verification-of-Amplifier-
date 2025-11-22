@@ -20,7 +20,7 @@ To design and construct an Inverting, Non-Inverting, Differential and Instrument
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 1 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1K, 10K, 2.2K | 2 |
+| 6 | Resistors | 10K, 100K, 15K,4.4k,2k,20k | 2 |
 | 7 | Connecting wires and probes | As required | — |
 
 ---
